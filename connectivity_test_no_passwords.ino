@@ -11,7 +11,7 @@
 #define WIFI_PASSWORD "put wifi password here"
 
 //ThingSpeak channel  
-unsigned long myChannelNumber = put thingspeak chanel ID here, no speachmarks of brackets;  // UNCOMMENT THIS LINE
+unsigned long myChannelNumber = put thingspeak chanel ID here, no speechmarks of brackets;  // UNCOMMENT THIS LINE
 //ThingSpeak API key
 const char * myWriteAPIKey = "put thingspeak API key here"; // UNCOMMENT THIS LINE
 
